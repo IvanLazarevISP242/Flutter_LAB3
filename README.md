@@ -1,12 +1,28 @@
 # first_flutter_app
 
-A new Flutter project.
+Flutter. Лабораторная работа 3
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Изучение основ Flutter  и создания веб-приложений.
 
-A few resources to get you started if this is your first Flutter project:
+Лазарев Иван ИСП-242
+
+Flutter 3.47.1
+Dart 3.13.1
+Web(Chrome)
+IDE: VS Code
+
+![alt text](image.png)
+
+## Запуск
+Клонировать репозиторий
+Перейти в папку проекта
+Выполнить `flutter pub get`
+Запустить командой `flutter run -d chrome`
+
+изучил основы написания веб-приложений и их оформление.
+
 
 - [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
 - [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
