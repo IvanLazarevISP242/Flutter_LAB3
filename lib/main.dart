@@ -1,5 +1,14 @@
 import 'package:flutter/material.dart';
-void main() {
-  runApp(MaterialApp(home: Text("Hello, world!")));
 
+void main() {
+  runApp(
+    MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: (Scaffold(
+        body: Center(
+          child: Text("Hello, world!"),
+        ),
+      )),
+    ),
+  );
 }
